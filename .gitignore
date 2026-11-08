@@ -1,0 +1,9 @@
+# Rust
+/target
+Cargo.lock
+
+# misc
+.DS_Store
+.env
+.env.local
+PROJECT_TODOS.md
